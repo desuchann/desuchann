@@ -1,1 +1,1 @@
-TBC
+<img src="banner.jpg">
