@@ -1,1 +1,1 @@
-<img src="framecrop.jpg">
+<img src="banner.jpg">
