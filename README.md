@@ -1,3 +1,2 @@
-contents!
-<img src="sparkle.gif">
+<img src="banner.gif">
 end contents
